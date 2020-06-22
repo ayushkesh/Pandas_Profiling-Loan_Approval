@@ -10,12 +10,4 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 
 Generates profile reports from a pandas `DataFrame`. 
-The pandas `df.describe()` function is great but a little basic for serious exploratory data analysis. 
 `pandas_profiling` extends the pandas DataFrame with `df.profile_report()` for quick data analysis.
-
-For each column the following statistics - if relevant for the column type - are presented in an interactive HTML report:
-
-* **Type inference**: detect the [types](#types) of columns in a dataframe.
-* **Essentials**: type, unique values, missing values
-* **Quantile statistics** like minimum value, Q1, median, Q3, maximum, range, interquartile range
-* **Descriptive statistics** like mean, mode, standard deviation, sum, median absolute deviation, coefficient of variation, kurtosis, skewness
