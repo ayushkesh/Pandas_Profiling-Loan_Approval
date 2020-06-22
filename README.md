@@ -9,3 +9,5 @@ Generates profile reports from a pandas `DataFrame`.
 - Profile obtained from the Code in the Repository
 ![Pandas Profiling Logo Header](https://github.com/ayushkesh/Pandas_Profiling-Loan_Approval/blob/master/Capture2.PNG)
 
+• Please do ⭐ the repository, if it helped you in anyway.
+
